@@ -4,20 +4,6 @@
 
 O projeto Bikcraft foi desenvolvido por completo, iniciado desde a prototipagem no Figma, a codificação do HTML, a estilização no CSS e as animações em JavaScript.
 
-### 🎯 Menu
-
-<details>
-<summary>Clique para expandir</summary>
-◽ <a href="#inicio">Início</a> <br>
-◽ <a href="#pre-requisitos">Pré-requisitos</a> <br>
-◽ <a href="#acessar-projeto">Acessar Projeto</a> <br>
-◽ <a href="#instalacao">Instalação</a> <br>
-◽ <a href="#tecnologias">Tecnologias</a> <br>
-◽ <a href="#topicos">Tópicos</a> <br>
-◽ <a href="#status">Status do Projeto</a> <br>
-◽ <a href="#autor">Autor</a> <br>
-</details>
-
 <h3 id="inicio">🚀 Início</h3>
 
 Clique em [Bikcraft](https://hiago-maitan.github.io/Bikcraft/)🔗 para acessar.
